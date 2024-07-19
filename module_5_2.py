@@ -29,3 +29,9 @@ print(h2)
 print(len(h1))
 print(len(h2))
 
+print()
+
+# go_to
+h1.go_to(2)
+print()
+h2.go_to(3)
